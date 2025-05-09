@@ -21,3 +21,6 @@ This file handling program implements ActionListener interface. The 3 buttons tr
 In conclusion, this Java application program code is a simple GUI application that performs basic file handling operations. This java application program can be useful for small-scale file management applications. With additional features and enhancements, the application can be made more robust and useful for a wider range of applications.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/758e98fe-e7b0-48da-81d4-c1c4698aa110)
+
